@@ -89,8 +89,13 @@ Built with **Bootstrap 5**, **Font Awesome**, **Video.js**, and **mpegts.js**, i
 
 ```
 .
-├── MITV2.html   # Main IPTV Web Player UI
-└── README.md    # Project documentation
+├── MITV2.html             # Main IPTV Web Player UI
+├── assets
+│   ├── css
+│   │   └── styles.css     # Extracted styles
+│   └── js
+│       └── app.js         # Application logic
+└── README.md              # Project documentation
 ```
 
 ---
